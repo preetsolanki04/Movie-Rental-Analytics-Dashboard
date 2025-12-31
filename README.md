@@ -30,4 +30,4 @@ The project focuses on understanding customer behavior, rental trends, revenue p
 
 ---
 
-## 📂 Project Structure
+
