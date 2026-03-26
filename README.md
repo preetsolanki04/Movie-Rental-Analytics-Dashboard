@@ -36,3 +36,7 @@ The project focuses on understanding customer behavior, rental trends, revenue p
 
 ![img alt](https://github.com/preetsolanki04/Movie-Rental-Analytics-Dashboard/blob/f9e38b396c31faf2f11534ffdc36dbd559acee94/Staff%20Performance.png)
 
+** Sales and Customer Insights
+
+![img alt](https://github.com/preetsolanki04/Movie-Rental-Analytics-Dashboard/blob/588c980ece93e9d9086dfa3eeed1797808d8bc27/Sales%20and%20Customer%20Insights.png)
+
