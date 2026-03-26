@@ -40,3 +40,7 @@ The project focuses on understanding customer behavior, rental trends, revenue p
 
 ![img alt](https://github.com/preetsolanki04/Movie-Rental-Analytics-Dashboard/blob/588c980ece93e9d9086dfa3eeed1797808d8bc27/Sales%20and%20Customer%20Insights.png)
 
+** Film and Inventory
+
+![img alt](https://github.com/preetsolanki04/Movie-Rental-Analytics-Dashboard/blob/8f8ed3a052a7738cdaaff82b0ff287775c291aac/Film%20and%20Inventory.png)
+
