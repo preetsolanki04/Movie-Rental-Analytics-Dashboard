@@ -30,4 +30,9 @@ The project focuses on understanding customer behavior, rental trends, revenue p
 
 ---
 
+## Dashboard Preview
+
+** Staff Performance 
+
+![img alt](https://github.com/preetsolanki04/Movie-Rental-Analytics-Dashboard/blob/f9e38b396c31faf2f11534ffdc36dbd559acee94/Staff%20Performance.png)
 
